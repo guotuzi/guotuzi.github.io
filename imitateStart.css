@@ -7,7 +7,7 @@
 .page .nav .nav-right { display: block; margin-top: 0; float: left;  width: auto ; height: 65px; text-align: center; }
 .page .nav .nav-right .option { font-family: Microsoft Yahei; font-size: 16px; color: #333333; text-decoration: none; margin-left: 40px; line-height: 65px;}
 .page .nav .nav-right .option1 { font-family: Microsoft Yahei; font-size: 16px; text-decoration: none; margin-left: 65px; line-height: 50px; color: #a0ce4e;}
-.page .nav .nav-right .search { font-family: Microsoft Yahei; width: 16px; height: 16px; text-decoration: none; margin-left: 60px; line-height: 50px; color: #a0ce4e; background: red;}
+.page .nav .nav-right .search { font-family: Microsoft Yahei; width: 16px; height: 16px; text-decoration: none; margin-left: 60px; line-height: 50px; color: #a0ce4e;}
 .page .nav .nav-right .option:hover{color: #a0ce4e;}
 
 
